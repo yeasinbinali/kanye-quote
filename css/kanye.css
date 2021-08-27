@@ -1,0 +1,24 @@
+h2{
+    width: 25%;
+    background-color: rgb(219, 120, 219);
+    color: khaki;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+}
+h2:hover{
+    color: maroon;
+}
+button{
+    border: 2px ;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 10px;
+}
+.quotes{
+    width: 50%;
+    background-color: powderblue;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
